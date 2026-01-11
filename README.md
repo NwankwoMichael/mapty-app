@@ -21,6 +21,9 @@ Jonas Schmedtmann — for the original Mapty app concept and teaching materials 
 
 Michael Nwankwo — for extending, refining, and customizing the app.
 
+## 🚀 Live Demo 
+Try Mapty here: [Mapty App on GitHub Pages](https://NwankwoMichael.github.io/mapty-app/)
+
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
